@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4013160-c37b-44e4-8f18-3dac445c7365" name="Default Changelist" comment="">
+    <list default="true" id="c4013160-c37b-44e4-8f18-3dac445c7365" name="Default Changelist" comment="first task done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +19,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/robot" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,8 +64,17 @@
       <option name="presentableId" value="Default" />
       <updated>1589348360261</updated>
       <workItem from="1589348467615" duration="6194000" />
-      <workItem from="1589356692036" duration="267000" />
+      <workItem from="1589356692036" duration="620000" />
+      <workItem from="1589357389110" duration="267000" />
     </task>
+    <task id="LOCAL-00001" summary="first task done">
+      <created>1589357073838</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589357073838</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,10 +85,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first task done" />
+    <option name="LAST_COMMIT_MESSAGE" value="first task done" />
   </component>
 </project>
